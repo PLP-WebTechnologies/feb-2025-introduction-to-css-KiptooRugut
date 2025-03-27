@@ -1,29 +1,29 @@
 # Introduction to CSS
 
-## Objectives
-Link an external CSS file to an HTML document.
-Apply basic styling using selectors.
-Use colors, fonts, and spacing effectively.
+A modern educational platform for learning CSS fundamentals and web development techniques.
 
-## Instructions
+## 🎯 Objectives
+- Link external CSS files to HTML documents
+- Apply styling using various CSS selectors
+- Master use of colors, fonts, and spacing
+- Implement proper box model techniques
 
-Create a style.css file.
-Apply CSS to a HTML page.
-Style elements using:
-Classes and IDs.
-Color and typography.
-Margins, paddings, and borders.
+## 🛠️ Features Demonstrated
+- [x] External CSS file linking
+- [x] Element, Class, and ID selectors
+- [x] Margin/Padding/Border implementations
+- [x] Google Fonts integration
+- [x] Image styling techniques
 
->[!NOTE]
->  - Include at least:
->  - Use of 3 selectors
->  - Style an image
->  - Margin, Padding & Borders
->  - Different font
+## 📂 Project Structure
+project-root/
+├── index.html # Main HTML document
+├── style.css # External stylesheet
+├── images/ # Image assets
+└── README.md # Project documentation
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
+## Installation
 
-Happy Coding! 💻✨
+1. Clone the repository:
+```bash
+git clone https://github.com/PLP-WebTechnologies/feb-2025-introduction-to-css-KiptooRugut.git
